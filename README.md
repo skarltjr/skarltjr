@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning docker and Kubernetes with Spring  
 - 📫 How to reach me **kisa0828@naver.com**  
 ### Experience
-1. funD 6기(Buravel)
-2. 한국전자통신연구원(ETRI) 2021 하계인턴
+##### 1. funD 6기(Buravel)
+  - https://github.com/Buravel
+##### 2. 한국전자통신연구원(ETRI) 2021 하계인턴 
+  - dev & test rest api of etri-sodas community part 
 
 
 ## Interest
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 </div>
 
 </td></tr>
