@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ##### 1. funD 6기(Buravel)
   - https://github.com/Buravel
 ##### 2. 한국전자통신연구원(ETRI) 2021 하계인턴 
-  - dev & test rest api of etri-sodas community part 
+  - dev & test rest api 
 
 
 ## Interest
