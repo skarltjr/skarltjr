@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   - https://github.com/Buravel
 ##### 2. 한국전자통신연구원(ETRI) 2021 하계인턴 
   - dev & test rest api 
+  - (+) https://github.com/skarltjr/Memory_Write_Record/issues/19
 
 
 ## Interest
