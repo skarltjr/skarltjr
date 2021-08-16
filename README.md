@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - (+) https://github.com/skarltjr/Memory_Write_Record/issues/19
 #### 3. 멋쟁이사자처럼 x 카카오엔터프라이즈 온라인 부트캠프
   - 쿠버네티스 & Docker
+  - https://github.com/skarltjr/Kubernetes-with-Docker
 
 ## Interest
 
