@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning docker and Kubernetes with Spring  
 - 📫 How to reach me **kisa0828@naver.com**  
 ### Experience
-##### 1. funD 6기(Buravel)
-  - https://github.com/Buravel
-##### 2. 한국전자통신연구원(ETRI) 2021 하계인턴 
+##### 1. 한국전자통신연구원(ETRI) 2021 하계인턴 
   - dev & test rest api 
   - (+) https://github.com/skarltjr/Memory_Write_Record/issues/19
-##### 3. 멋쟁이사자처럼 x 카카오엔터프라이즈 온라인 부트캠프 1기
+##### 2. 멋쟁이사자처럼 x 카카오엔터프라이즈 온라인 부트캠프 1기
   - 쿠버네티스 & Docker
   - https://github.com/skarltjr/Kubernetes-with-Docker
+##### 3. funD 6기(Buravel)
+  - https://github.com/Buravel
 
 ## Interest
 
