@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+- 함께 하고 싶은 개발자가 되자
 - 🌱 I’m currently learning docker and Kubernetes with Spring  
 - 📫 How to reach me **kisa0828@naver.com**  
 ### Experience
