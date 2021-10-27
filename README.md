@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Experience
 ##### 1. 한국전자통신연구원(ETRI) 2021 하계 연구연수생
   - dev & test rest api 
-  - (+) https://github.com/skarltjr/Memory_Write_Record/issues/19
+  - (+) https://github.com/skarltjr/Memory_Write_Record/issues/37
 ##### 2. 멋쟁이사자처럼 x 카카오엔터프라이즈 온라인 부트캠프 1기
   - 쿠버네티스 & Docker
   - https://github.com/skarltjr/Kubernetes-with-Docker
