@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me **kisa0828@naver.com**  
 ### Experience
 ##### 1. 한국전자통신연구원(ETRI) 2021 하계 인턴           
-- https://github.com/skarltjr/Memory_Write_Record/issues/37
-##### 2. 멋쟁이사자처럼 x 카카오엔터프라이즈 // 도커 & 쿠버네티스 온라인 부트캠프 1기 
-- https://github.com/skarltjr/Kubernetes-with-Docker
+##### 2. 멋쟁이사자처럼 x 카카오엔터프라이즈
+  - 도커 & 쿠버네티스 부트캠프 1기 
 ##### 3. YourSSU                                    
 ##### 4. funD 6기(Buravel)                                       
-- https://github.com/Buravel
+
 
 ## Interest
 
