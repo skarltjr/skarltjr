@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ##### 1. fabric8 (k8s-client, java)
 - https://github.com/fabric8io/kubernetes-client/pull/4200
 
-### Carrer
+### Career
 | Company | Position | Duration |
 |---------|----------|----------|
 | Tmax | SW Engineer | 2023.01~03 |
