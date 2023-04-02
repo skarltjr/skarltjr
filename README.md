@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 ### Career
 | Company | Position | Duration |
 |---------|----------|----------|
-| Tmax | SW Engineer | 2023.01~03 |
 | Triple Corp. | DevOps Engineer | 2023.04 ~ |
