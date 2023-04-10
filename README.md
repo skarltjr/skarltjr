@@ -23,8 +23,3 @@ Here are some ideas to get you started:
 ### Contribution
 ##### 1. fabric8 (k8s-client, java)
 - https://github.com/fabric8io/kubernetes-client/pull/4200
-
-### Career
-| Company | Position | Duration |
-|---------|----------|----------|
-| Triple Corp. | DevOps Engineer | 2023.04 ~ |
