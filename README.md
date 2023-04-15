@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🌱 I’m currently learning docker and Kubernetes with Spring  
 - 📫 How to reach me **kisa0828@naver.com**  
 
 
